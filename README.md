@@ -51,7 +51,7 @@ CodeAlpha_PhishingAwarenessTraining/
 Phishing succeeds by exploiting **trust and urgency**, not technical flaws. Slowing down, verifying requests through a separate known channel, and reporting anything suspicious stops the vast majority of attacks.
 
 ## 👤 Author
-Completed as part of the **CodeAlpha Cyber Security Internship (Task 2)**.
+PuneetCSE28 (Puneet Kumar Bairwa) Completed as part of the **CodeAlpha Cyber Security Internship (Task 2)**.
 
 ## ⚠️ Disclaimer
 This training material is for **educational and defensive awareness purposes only**. All example emails/websites shown are fictional mockups created to illustrate red flags — no real organizations are impersonated or targeted.
